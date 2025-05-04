@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jonogg
-- 👀 I HAVE NFI WHAT I'M DOING BUT I'M GETTING THERE.😄
-- ⚡Thanks for listening.⚡
+- 👋 Hi,
 
 <!---
 jonogg/jonogg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
